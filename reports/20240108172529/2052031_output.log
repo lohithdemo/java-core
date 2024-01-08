@@ -1,0 +1,11 @@
+2024-01-08 17:25:30,831 - student - INFO - Log initialization
+2024-01-08 17:25:30,832 - student - INFO - START: 2052031 - lohithdemo
+2024-01-08 17:25:30,928 - student - ERROR - (3, 'rmdir C:\\evaluate\\build\\20240108172529\\2052031\\lohithdemo\\java-core /S /Q')
+2024-01-08 17:25:30,928 - student - INFO - CLONE: https://github.com/lohithdemo/java-core
+2024-01-08 17:25:32,019 - student - INFO - CLONE: Successful
+2024-01-08 17:25:32,021 - student - INFO - BUILD: Start
+2024-01-08 17:25:37,313 - student - INFO - BUILD: Successful
+2024-01-08 17:25:37,313 - student - INFO - TEST: Start
+2024-01-08 17:25:37,895 - student - INFO - TEST: START D01
+2024-01-08 17:25:38,019 - student - ERROR - TEST: Failed
+2024-01-08 17:25:38,019 - student - ERROR - TEST: ("local variable 'tc_name' referenced before assignment",)
