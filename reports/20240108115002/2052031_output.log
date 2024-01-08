@@ -1,0 +1,20 @@
+2024-01-08 11:50:03,935 - student - INFO - Log initialization
+2024-01-08 11:50:03,935 - student - INFO - START: 2052031 - lohithdemo
+2024-01-08 11:50:04,028 - student - ERROR - (3, 'rmdir C:\\evaluate\\build\\20240108115002\\2052031\\lohithdemo\\java-core /S /Q')
+2024-01-08 11:50:04,029 - student - INFO - CLONE: https://github.com/lohithdemo/java-core
+2024-01-08 11:50:05,088 - student - INFO - CLONE: Successful
+2024-01-08 11:50:05,093 - student - INFO - BUILD: Start
+2024-01-08 11:50:10,616 - student - INFO - BUILD: Successful
+2024-01-08 11:50:10,617 - student - INFO - TEST: Start
+2024-01-08 11:50:11,331 - student - INFO - SKIP: START D01
+2024-01-08 11:50:11,332 - student - INFO - TEST: START D02
+2024-01-08 11:50:11,471 - student - INFO - TEST: END D02
+2024-01-08 11:50:11,472 - student - INFO - SKIP: START D03
+2024-01-08 11:50:11,473 - student - INFO - SKIP: START D04
+2024-01-08 11:50:11,482 - student - INFO - SKIP: START D05
+2024-01-08 11:50:11,484 - student - INFO - SKIP: START D06
+2024-01-08 11:50:11,485 - student - INFO - SKIP: START D07
+2024-01-08 11:50:11,486 - student - INFO - SKIP: START D08
+2024-01-08 11:50:11,487 - student - INFO - SKIP: START D09
+2024-01-08 11:50:11,488 - student - INFO - SKIP: START D10
+2024-01-08 11:50:11,489 - student - INFO - TEST: End
