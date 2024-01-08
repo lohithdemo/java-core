@@ -1,0 +1,11 @@
+2024-01-08 17:11:59,831 - student - INFO - Log initialization
+2024-01-08 17:11:59,832 - student - INFO - START: 2052031 - lohithdemo
+2024-01-08 17:11:59,942 - student - ERROR - (3, 'rmdir C:\\evaluate\\build\\20240108171158\\2052031\\lohithdemo\\java-core /S /Q')
+2024-01-08 17:11:59,942 - student - INFO - CLONE: https://github.com/lohithdemo/java-core
+2024-01-08 17:12:00,935 - student - INFO - CLONE: Successful
+2024-01-08 17:12:00,959 - student - INFO - BUILD: Start
+2024-01-08 17:12:07,613 - student - INFO - BUILD: Successful
+2024-01-08 17:12:07,613 - student - INFO - TEST: Start
+2024-01-08 17:12:08,193 - student - INFO - TEST: START D01
+2024-01-08 17:12:08,300 - student - ERROR - TEST: Failed
+2024-01-08 17:12:08,301 - student - ERROR - TEST: ("type object 'super' has no attribute 'tc_prefix'",)
