@@ -1,0 +1,26 @@
+2024-01-09 09:41:07,903 - student - INFO - Log initialization
+2024-01-09 09:41:07,903 - student - INFO - START: 2052031 - lohithdemo
+2024-01-09 09:41:08,020 - student - ERROR - (3, 'rmdir C:\\evaluate\\build\\20240109094106\\2052031\\lohithdemo\\java-core /S /Q')
+2024-01-09 09:41:08,021 - student - INFO - CLONE: https://github.com/lohithdemo/java-core
+2024-01-09 09:41:08,936 - student - INFO - CLONE: Successful
+2024-01-09 09:41:08,939 - student - INFO - BUILD: Start
+2024-01-09 09:41:13,341 - student - INFO - BUILD: Successful
+2024-01-09 09:41:13,342 - student - INFO - TEST: Start
+2024-01-09 09:41:13,881 - student - INFO - TEST: START D01
+2024-01-09 09:41:13,883 - student - INFO - TEST: START D01 tc_01
+2024-01-09 09:41:13,999 - student - INFO - TEST: END D01 tc_01
+2024-01-09 09:41:14,001 - student - INFO - TEST: START D01 tc_02
+2024-01-09 09:41:14,006 - student - INFO - TEST: START D01 tc_02 ("Failed to import 'learning.java.core.day1.Rectangle2'",)
+2024-01-09 09:41:14,007 - student - INFO - TEST: END D01 tc_02
+2024-01-09 09:41:14,017 - student - INFO - TEST: END D01
+2024-01-09 09:41:14,018 - student - INFO - TEST: START D02
+2024-01-09 09:41:14,037 - student - INFO - TEST: END D02
+2024-01-09 09:41:14,038 - student - INFO - TEST: SKIP D03
+2024-01-09 09:41:14,039 - student - INFO - TEST: SKIP D04
+2024-01-09 09:41:14,040 - student - INFO - TEST: SKIP D05
+2024-01-09 09:41:14,041 - student - INFO - TEST: SKIP D06
+2024-01-09 09:41:14,042 - student - INFO - TEST: SKIP D07
+2024-01-09 09:41:14,043 - student - INFO - TEST: SKIP D08
+2024-01-09 09:41:14,049 - student - INFO - TEST: SKIP D09
+2024-01-09 09:41:14,050 - student - INFO - TEST: SKIP D10
+2024-01-09 09:41:14,051 - student - INFO - TEST: End
