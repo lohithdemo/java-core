@@ -1,0 +1,19 @@
+2024-01-09 12:12:11,430 - student - INFO - Log initialization
+2024-01-09 12:12:11,431 - student - INFO - START: 2052031 - lohithdemo
+2024-01-09 12:12:11,556 - student - ERROR - (3, 'rmdir C:\\evaluate\\build\\20240109121210\\2052031\\lohithdemo\\java-core /S /Q')
+2024-01-09 12:12:11,558 - student - INFO - CLONE: https://github.com/lohithdemo/java-core
+2024-01-09 12:12:12,568 - student - INFO - CLONE: Successful
+2024-01-09 12:12:12,571 - student - INFO - BUILD: Start
+2024-01-09 12:12:17,678 - student - INFO - BUILD: Successful
+2024-01-09 12:12:17,679 - student - INFO - TEST: Start
+2024-01-09 12:12:18,304 - student - INFO - TEST: START D01
+2024-01-09 12:12:18,306 - student - INFO - TEST: START D01 tc_01
+2024-01-09 12:12:18,488 - student - INFO - TEST: END D01 tc_01
+2024-01-09 12:12:18,490 - student - INFO - TEST: START D01 tc_02
+2024-01-09 12:12:18,501 - student - INFO - TEST: END D01 tc_02
+2024-01-09 12:12:18,515 - student - INFO - TEST: END D01
+2024-01-09 12:12:18,516 - student - INFO - TEST: START D02
+2024-01-09 12:12:18,518 - student - INFO - TEST: START D02 tc_02
+2024-01-09 12:12:18,534 - student - INFO - TEST: END D02 tc_02
+2024-01-09 12:12:18,539 - student - ERROR - TEST: Failed
+2024-01-09 12:12:18,539 - student - ERROR - TEST: ("name 'tc_name' is not defined",)
