@@ -1,0 +1,24 @@
+2024-01-09 17:09:11,073 - student - INFO - Log initialization
+2024-01-09 17:09:11,073 - student - INFO - START: 2052031 - lohithdemo
+2024-01-09 17:09:11,189 - student - ERROR - (3, 'rmdir C:\\evaluate\\build\\20240109170909\\2052031\\lohithdemo\\java-core /S /Q')
+2024-01-09 17:09:11,190 - student - INFO - CLONE: https://github.com/lohithdemo/java-core
+2024-01-09 17:09:12,222 - student - INFO - CLONE: Successful
+2024-01-09 17:09:12,230 - student - INFO - BUILD: Start
+2024-01-09 17:09:17,593 - student - INFO - BUILD: Successful
+2024-01-09 17:09:17,594 - student - INFO - TEST: Start
+2024-01-09 17:09:18,218 - student - INFO - TEST: START D01
+2024-01-09 17:09:18,221 - student - INFO - TEST: START D01 tc_01
+2024-01-09 17:09:18,322 - student - INFO - TEST: END D01 tc_01
+2024-01-09 17:09:18,326 - student - INFO - TEST: START D01 tc_02
+2024-01-09 17:09:18,417 - student - INFO - TEST: END D01 tc_02
+2024-01-09 17:09:18,427 - student - INFO - TEST: END D01
+2024-01-09 17:09:18,428 - student - INFO - TEST: SKIP D02
+2024-01-09 17:09:18,436 - student - INFO - TEST: SKIP D03
+2024-01-09 17:09:18,438 - student - INFO - TEST: SKIP D04
+2024-01-09 17:09:18,440 - student - INFO - TEST: SKIP D05
+2024-01-09 17:09:18,441 - student - INFO - TEST: SKIP D06
+2024-01-09 17:09:18,442 - student - INFO - TEST: SKIP D07
+2024-01-09 17:09:18,443 - student - INFO - TEST: SKIP D08
+2024-01-09 17:09:18,445 - student - INFO - TEST: SKIP D09
+2024-01-09 17:09:18,452 - student - INFO - TEST: SKIP D10
+2024-01-09 17:09:18,453 - student - INFO - TEST: End
