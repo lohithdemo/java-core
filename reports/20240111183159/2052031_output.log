@@ -1,0 +1,33 @@
+2024-01-11 18:32:01,362 - student - INFO - Log initialization
+2024-01-11 18:32:01,363 - student - INFO - START: 2052031 - lohithdemo
+2024-01-11 18:32:01,499 - student - ERROR - (3, 'rmdir C:\\evaluate\\build\\20240111183159\\2052031\\lohithdemo\\java-core /S /Q')
+2024-01-11 18:32:01,501 - student - INFO - CLONE: https://github.com/lohithdemo/java-core
+2024-01-11 18:32:02,762 - student - INFO - CLONE: Successful
+2024-01-11 18:32:02,765 - student - INFO - BUILD: Start
+2024-01-11 18:32:08,423 - student - INFO - BUILD: Successful
+2024-01-11 18:32:08,425 - student - INFO - BUILD: Start
+2024-01-11 18:32:36,494 - student - INFO - SCAN: Successful
+2024-01-11 18:32:36,922 - student - INFO - TEST: Start
+2024-01-11 18:32:37,538 - student - INFO - TEST: START D01
+2024-01-11 18:32:37,540 - student - INFO - TEST: START D01 tc_01
+2024-01-11 18:32:37,636 - student - INFO - TEST: END D01 tc_01
+2024-01-11 18:32:37,641 - student - INFO - TEST: START D01 tc_02
+2024-01-11 18:32:37,715 - student - INFO - TEST: END D01 tc_02
+2024-01-11 18:32:37,723 - student - INFO - TEST: END D01
+2024-01-11 18:32:37,724 - student - INFO - TEST: START D02
+2024-01-11 18:32:37,739 - student - INFO - TEST: START D02 tc_01
+2024-01-11 18:32:37,750 - student - INFO - TEST: END D02 tc_01
+2024-01-11 18:32:37,751 - student - INFO - TEST: START D02 tc_02
+2024-01-11 18:32:37,756 - student - INFO - TEST: END D02 tc_02
+2024-01-11 18:32:37,756 - student - INFO - TEST: START D02 tc_03
+2024-01-11 18:32:37,762 - student - INFO - TEST: END D02 tc_03
+2024-01-11 18:32:37,771 - student - INFO - TEST: END D02
+2024-01-11 18:32:37,772 - student - INFO - TEST: SKIP D03
+2024-01-11 18:32:37,774 - student - INFO - TEST: SKIP D04
+2024-01-11 18:32:37,777 - student - INFO - TEST: SKIP D05
+2024-01-11 18:32:37,784 - student - INFO - TEST: SKIP D06
+2024-01-11 18:32:37,786 - student - INFO - TEST: SKIP D07
+2024-01-11 18:32:37,787 - student - INFO - TEST: SKIP D08
+2024-01-11 18:32:37,789 - student - INFO - TEST: SKIP D09
+2024-01-11 18:32:37,790 - student - INFO - TEST: SKIP D10
+2024-01-11 18:32:37,791 - student - INFO - TEST: End
