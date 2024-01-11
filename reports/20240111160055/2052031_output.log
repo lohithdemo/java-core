@@ -1,0 +1,8 @@
+2024-01-11 16:00:56,695 - student - INFO - Log initialization
+2024-01-11 16:00:56,696 - student - INFO - START: 2052031 - lohithdemo
+2024-01-11 16:00:56,806 - student - ERROR - (3, 'rmdir C:\\evaluate\\build\\20240111160055\\2052031\\lohithdemo\\java-core /S /Q')
+2024-01-11 16:00:56,807 - student - INFO - CLONE: https://github.com/lohithdemo/java-core
+2024-01-11 16:00:58,129 - student - INFO - CLONE: Successful
+2024-01-11 16:00:58,132 - student - INFO - BUILD: Start
+2024-01-11 16:01:03,082 - student - ERROR - BUILD: Failed
+2024-01-11 16:01:03,083 - student - ERROR - BUILD: (1, "mvn clean verify sonar:sonar -Dsonar.projectKey=sonar-2052031 -Dsonar.projectName='sonar-2052031' -Dsonar.host.url=http://10.13.45.14:9000 -Dsonar.token=squ_b4f688dccd942a7216de7732757e9934c7e9c139")
