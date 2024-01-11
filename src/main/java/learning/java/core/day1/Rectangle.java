@@ -1,7 +1,8 @@
 package learning.java.core.day1;
 
 public class Rectangle {
-	float length, breadth;
+	float length;
+	float breadth;
 
 	public Rectangle(float length, float breadth) {
 		super();

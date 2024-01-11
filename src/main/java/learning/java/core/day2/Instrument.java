@@ -7,7 +7,7 @@ package learning.java.core.day2;
  */
 public abstract class Instrument {
 
-	public Instrument() {
+	protected Instrument() {
 		
 	}
 	

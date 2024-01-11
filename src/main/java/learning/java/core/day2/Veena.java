@@ -10,6 +10,7 @@ public class Veena extends Instrument {
 	public Veena() {
 		
 	}
+	{
 	
 	@Override
 	public String play() {
