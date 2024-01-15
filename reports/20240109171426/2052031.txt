@@ -1,5 +1,0 @@
-D01||123||tc_01||PASS||
-D01||123||tc_02||PASS||
-D02||123||tc_01||FAIL||Expected: ['Area of Rectangle is 2442.15'] Received: ['Character is an Alphabet']
-D02||123||tc_02||FAIL||Expected: ['Area of Rectangle is 2442.15'] Received: ['Character is a Digit']
-D02||123||tc_03||FAIL||Expected: ['Area of Rectangle is 2442.15'] Received: ['Character is a Digit']

@@ -1,5 +1,0 @@
-2024-01-11 17:37:09,390 - student_scan - INFO - Log initialization
-2024-01-11 17:37:47,881 - student_scan - INFO - SCAN: violations -> 27
-2024-01-11 17:37:47,883 - student_scan - INFO - SCAN: complexity -> 44
-2024-01-11 17:37:47,884 - student_scan - INFO - SCAN: ncloc -> 232
-2024-01-11 17:37:47,885 - student_scan - INFO - SCAN: code_smells -> 27
