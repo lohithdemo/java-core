@@ -7,6 +7,7 @@ package learning.java.core.sample1;
  *
  */
 public class ArrayAddition {
+	int a,b;
 	
 	public ArrayAddition() {
 		
