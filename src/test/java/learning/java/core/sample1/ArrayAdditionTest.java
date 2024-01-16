@@ -32,4 +32,11 @@ public class ArrayAdditionTest {
 		Assertions.assertEquals(a.addArray(new Integer[] {1,2,3}), Integer.valueOf(6));
 	}
 
+	@DisplayName("Test Integer Array Addition with values")
+	@Test
+	public void testFail() {
+		a = new ArrayAddition();
+		Assertions.assertEquals(a.addArray(new Integer[] {1,2,3}), Integer.valueOf(60));
+	}
+
 }
