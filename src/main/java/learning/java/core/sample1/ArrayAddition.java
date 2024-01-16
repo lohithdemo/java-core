@@ -13,7 +13,7 @@ public class ArrayAddition {
 		
 	}
 	
-	public Integer addArray(Integer[] numbers) {
+	public Integer addIntegerArray(Integer[] numbers) {
 		Integer sum = 0;
 		
 		if (numbers == null) {
@@ -27,7 +27,7 @@ public class ArrayAddition {
 		return sum;
 	}
 
-	public Double addArray(Double[] numbers) {
+	public Double addDoubleArray(Double[] numbers) {
 		Double sum = 0d;
 		
 		if (numbers == null) {

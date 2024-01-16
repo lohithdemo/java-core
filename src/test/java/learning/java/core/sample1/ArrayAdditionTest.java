@@ -1,7 +1,5 @@
 package learning.java.core.sample1;
 
-import java.time.LocalDateTime;
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;
@@ -22,14 +20,14 @@ public class ArrayAdditionTest {
 	@Test
 	public void test01() {
 		a = new ArrayAddition();
-		Assertions.assertEquals(a.addArray(null), Integer.valueOf(0));
+		Assertions.assertEquals(a.addIntegerArray(null), Integer.valueOf(0));
 	}
 
 	@DisplayName("Test Integer Array Addition with values")
 	@Test
 	public void test02() {
 		a = new ArrayAddition();
-		Assertions.assertEquals(a.addArray(new Integer[] {1,2,3}), Integer.valueOf(6));
+		Assertions.assertEquals(a.addIntegerArray(new Integer[] {1,2,3}), Integer.valueOf(6));
 	}
 
 }
