@@ -27,7 +27,14 @@ public class ArrayAdditionTest {
 	@Test
 	public void test02() {
 		a = new ArrayAddition();
-		Assertions.assertEquals(a.addIntegerArray(new Integer[] {1,2,3}), Integer.valueOf(6));
+		Assertions.assertEquals(a.addIntegerArray(new Integer[] {1,2,3}), 6);
+	}
+	
+	@DisplayName("Test Double Array Addition with values")
+	@Test
+	public void test03() {
+		a = new ArrayAddition();
+		Assertions.assertEquals(a.addDoubleArray(new Double[] {1d,2d,3d}), 6d);
 	}
 
 }
