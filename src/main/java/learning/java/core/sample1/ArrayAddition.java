@@ -27,4 +27,18 @@ public class ArrayAddition {
 		return sum;
 	}
 
+	public Double addArray(Double[] numbers) {
+		Double sum = 0d;
+		
+		if (numbers == null) {
+			return sum;
+		}
+		
+		for (int i = 0; i < numbers.length; i++) {
+			sum += numbers[i];
+		}
+		
+		return sum;
+	}
+
 }
