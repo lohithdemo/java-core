@@ -1,0 +1,8 @@
+2024-01-16 11:52:18,304 - student - INFO - Log initialization
+2024-01-16 11:52:18,304 - student - INFO - START: 2052031 - lohithdemo
+2024-01-16 11:52:18,397 - student - ERROR - (3, 'rmdir C:\\evaluate\\build\\20240116115216\\2052031\\lohithdemo\\java-core /S /Q')
+2024-01-16 11:52:18,398 - student - INFO - CLONE: https://github.com/lohithdemo/java-core
+2024-01-16 11:52:19,443 - student - INFO - CLONE: Successful
+2024-01-16 11:52:19,445 - student - INFO - BUILD: Start
+2024-01-16 11:52:26,424 - student - ERROR - BUILD: Failed
+2024-01-16 11:52:26,425 - student - ERROR - BUILD: (1, 'mvn clean package')
