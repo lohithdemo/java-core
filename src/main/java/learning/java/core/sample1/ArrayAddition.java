@@ -1,0 +1,29 @@
+package learning.java.core.sample1;
+
+/**
+ * @date 2024-01-16
+ * @version 0.0.1
+ * @author Lohith.Samaga
+ *
+ */
+public class ArrayAddition {
+	
+	public ArrayAddition() {
+		
+	}
+	
+	public Integer addArray(Integer[] numbers) {
+		Integer sum = 0;
+		
+		if (numbers == null) {
+			return sum;
+		}
+		
+		for (int i = 0; i < numbers.length; i++) {
+			sum += numbers[i];
+		}
+		
+		return sum;
+	}
+
+}
