@@ -13,6 +13,8 @@ public class DBaccess {
 	private String userName = "abcd";
 	private String password = "abcd";
 	private Connection con;
+	private String ACCESS_KEY_ID = "abcd";
+	private String SECRET_KEY = "abcd";
 	
 	public DBaccess() {
 		try{
